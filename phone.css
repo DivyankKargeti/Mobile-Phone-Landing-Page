@@ -1,0 +1,141 @@
+body{
+	background-color:#e7d3ef;
+	color: #f4f4f4;
+	font-family: Arial;
+	font-size:16px;
+	line-height: 1.6em;
+	margin: 0; 
+}
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+	
+}
+#navbar{
+	background-color:#333;
+	color:#fff;
+	position:fixed;
+	width:100%;
+}
+
+
+#navbar ul{
+	list-style:none;
+	padding:0;
+}
+
+
+#navbar li{
+	display:inline;
+	
+}
+
+
+#navbar a{
+	color:#fff;
+	text-decoration:none;
+	font-size:18px;
+	padding-right:180px;
+	
+}
+#showcase{
+	background-image:url(imgs/uk.jpeg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+    height:1000px;
+	width:100%;
+	text-align: right;
+	color:black;
+	text-decoration:none;
+	
+}
+h2{font-size:80px;
+ margin:100px 5px;
+ margin-top:150px;}
+h3{font-size:45px;
+margin-bottom:5px;}
+h4{font-size:35px;
+margin-bottom:5px}
+
+#disp{
+	background-image: url(imgs/dkab.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+    height:750px;
+	width:100%;
+	text-align: center;
+	
+}
+h5{font-size:150px;}
+h6{font-size:100px;}
+
+#camera{
+	background-image: url(imgs/4.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+    height:650px;
+	width:100%;
+	
+}
+
+#samp{
+	background-image: url(imgs/5.jpeg);
+	background-repeat: no-repeat;
+	background-position: center center;
+    height:900px;
+	width:100%;
+	text-align:right;
+}
+
+#samp p{
+	font-size:32px;
+	line-height:1.6em;
+}
+
+
+#ent{
+	background-image: url(imgs/6.jpeg);
+	background-repeat: no-repeat;
+	background-position: center center;
+    height:700px;
+	width:100%;
+	text-align: center;
+	
+}
+
+#ent p{
+	font-size:20px;
+	line-height:1.6em;
+}
+#xyz{
+	background-image: url(imgs/88.jpeg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-position: cover;
+    height:850px;
+	width:100%;
+	text-align: center;
+}
+
+#xyz h2{
+	font-size:90px;
+	line-height:1.2em;
+	color:black;
+}
+
+#abc{
+	background-image: url(imgs/8.jpeg);
+	background-repeat: no-repeat;
+	background-position: center center;
+    height:650px;
+	width:100%;
+	text-align: right;
+}
+#abc p{
+	font-size:20px;
+
+}
+
+
