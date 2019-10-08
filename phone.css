@@ -1,4 +1,7 @@
-body{
+html{
+	scroll-behavior: smooth;
+}
+	body{
 	background-color:#e7d3ef;
 	color: #f4f4f4;
 	font-family: Arial;
