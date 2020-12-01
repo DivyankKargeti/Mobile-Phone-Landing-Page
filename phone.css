@@ -16,7 +16,8 @@ html{
 	
 }
 #navbar{
-	background-color:#333;
+	background-color:black;
+        border-bottom : 2px solid #45CE30;
 	color:#fff;
 	position:fixed;
 	width:100%;
