@@ -2,4 +2,4 @@
 
 ### Screenshos
 
-[!SS_img](ss_for_readme/ss1.png)
+![SS_img](ss_for_readme/ss1.png)
